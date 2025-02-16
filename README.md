@@ -59,7 +59,7 @@
 <div class="main-section bg-lightgrey">
   <div class="container">
     <div class="width-50">
-      <img src="https://5.imimg.com/data5/HQ/LB/QS/SELLER-10171600/male-model-portfolio-photography-service.jpg" class="about-img">
+      <img src="" class="about-img">
     </div>
     <div class="width-50">
       <div class="about-us">
