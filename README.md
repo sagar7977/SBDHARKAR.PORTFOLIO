@@ -59,7 +59,7 @@
 <div class="main-section bg-lightgrey">
   <div class="container">
     <div class="width-50">
-      <img src="C:\Users\admin\Pictures\650a7e16-c4f4-455a-a2b8-c5c7491400db.jfif" class="about-img">
+      <img src="SAGAR.png" class="about-img">
     </div>
     <div class="width-50">
       <div class="about-us">
