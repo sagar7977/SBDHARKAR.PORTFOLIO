@@ -59,7 +59,7 @@
 <div class="main-section bg-lightgrey">
   <div class="container">
     <div class="width-50">
-      <img src="SAGAR.png" class="about-img">
+      <img src="D:\Rohit\project\SAGAR.png" class="about-img">
     </div>
     <div class="width-50">
       <div class="about-us">
