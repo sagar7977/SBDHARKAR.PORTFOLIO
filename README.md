@@ -59,8 +59,7 @@
 <div class="main-section bg-lightgrey">
   <div class="container">
     <div class="width-50">
-      <img src="![SAGAR](https://github.com/user-attachments/assets/85bfd201-368a-4da2-9b0b-1eea4319708f)
-" class="about-img">
+      <img src="">
     </div>
     <div class="width-50">
       <div class="about-us">
